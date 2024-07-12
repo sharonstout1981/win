@@ -30,6 +30,6 @@ jobs:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: echo "Hello ${{ inputs.name }}"
-              - name: Nancy for github actions
+              - name: 
                 uses: sonatype-nexus-community/nancy-github-action@v1.0.2
             
